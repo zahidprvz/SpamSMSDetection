@@ -1,10 +1,10 @@
 # My Colab Notebook Repository
 
-   This repository contains Colab notebooks related to [brief description].
+   This repository contains Colab notebooks related to [Spam Email/SMS Detection].
 
    ## Notebooks
 
-   - `SpamSMSDetection.ipynb`: Description of notebook.
+   - `SpamSMSDetection.ipynb`: This model will classify an email as Spam or Ham.
 
    ## Usage
 
