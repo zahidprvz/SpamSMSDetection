@@ -18,29 +18,3 @@
    ## License
 
    This project is licensed under the [MIT License](LICENSE).
-   ```
-
-   Customize the content to match your repository's purpose and structure.
-
-3. **Save the `README.md` File:**
-
-   Save the `README.md` file in your project folder, alongside your Colab notebooks.
-
-4. **Commit and Push to GitHub:**
-
-   Use Git to commit and push the `README.md` file to your GitHub repository. In your terminal or command prompt, run:
-
-   ```bash
-   # Add the README.md file
-   git add README.md
-
-   # Commit the changes
-   git commit -m "Add README.md"
-
-   # Push to GitHub
-   git push
-   ```
-
-5. **Verify on GitHub:**
-
-   Go to your GitHub repository in a web browser and navigate to the main page. You should see your `README.md` file displayed with its formatted content.
